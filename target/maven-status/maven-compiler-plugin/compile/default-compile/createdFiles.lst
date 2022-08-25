@@ -3,11 +3,13 @@ Bishop.class
 ChessGameBoard$BoardListener.class
 ChessPanel.class
 ChessGameBoard.class
+ChessGameBoard$1.class
 ChessGameEngine.class
 ChessGameLog.class
 ChessMenuBar.class
 ChessGraveyard.class
 King.class
+ChessMenuBar$1.class
 Knight.class
 BoardSquare.class
 Pawn.class
